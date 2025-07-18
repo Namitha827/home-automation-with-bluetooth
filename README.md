@@ -22,3 +22,8 @@ In the Tinkercad simulation, since the HC-05 module is not available, we use the
 
 This project provides a great introduction to IoT (Internet of Things) and home automation technologies. It demonstrates how microcontrollers like Arduino can be integrated with wireless modules to build practical, real-world systems. It also teaches serial communication, relay control, and how mobile phones can interact with embedded systems.
 Overall, the Bluetooth-controlled home automation system is a compact, affordable, and scalable solution for controlling household devices wirelessly. It lays the foundation for more advanced smart home applications such as voice control, remote monitoring, or Wi-Fi-based automation. With real hardware, this system can be expanded to include multiple devices, security systems, or even integrate with home assistants. In conclusion, this project successfully blends basic electronics with wireless communication to bring automation into everyday life.
+
+
+*OUTPUT*
+
+<img width="1366" height="501" alt="Image" src="https://github.com/user-attachments/assets/84879402-913f-40ca-8532-dd3a61ceae44" />
